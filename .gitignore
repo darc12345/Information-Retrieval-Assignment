@@ -1,2 +1,6 @@
 .venv/
 reformat_data.ipynb
+__pycache__/
+.ipynb_checkpoints/
+index-encode.txt
+lucene-index-covid-2020-03-27.tar.gz
