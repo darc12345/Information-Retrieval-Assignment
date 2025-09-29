@@ -48,8 +48,8 @@ Follow these steps to set up the project on your local machine.
 ### 2. Clone the Repository
 
 ```
-git clone <your-repository-url>
-cd <your-repository-directory>
+git clone https://github.com/darc12345/Information-Retrieval-Assignment.git
+cd Information-Retrieval-Assignment
 ```
 
 ### 3. Set Up a Virtual Environment (Recommended)
